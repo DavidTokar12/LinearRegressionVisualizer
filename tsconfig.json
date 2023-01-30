@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "CommonJS",
+    "target": "ES6",
+    "allowJs": true,
+    "esModuleInterop": true,
+  },
+  "files": ["src/index.ts"],
+  "include": ["src/custom.d.ts"]
+}

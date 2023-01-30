@@ -1,0 +1,1 @@
+(()=>{const e=document.getElementById("canvas");e.width=1e3,e.height=1e3;const t=e.getContext("2d");t.beginPath(),t.moveTo(0,0),t.lineTo(1e3,1e3),t.stroke()})();
